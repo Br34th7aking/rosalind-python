@@ -23,6 +23,8 @@ This track has classic algorithm problems.
 - [Majority Element](http://rosalind.info/problems/list-view/?location=algorithmic-heights) The question asks which element occurs more than half the number of times in the array. After sorting, check the count of middle element. If it is more than half, that is the answer, else -1.
 - [Degree Array](http://rosalind.info/problems/deg/) Just make a linear scan through the input and increase the count of every vertex you find.
 - [Insertion Sort](http://rosalind.info/problems/ins/) Modified the insertion sort function to return the count of number of swaps, instead of a sorted array.
+- [Merge Arrays](http://rosalind.info/problems/mer/) Just scan through both the arrays and add the element that is small er to the final array. The merge function from this problem can be used to solve the merge sort question.
+- [Merge Sort](http://rosalind.info/problems/ms/) Added the merge_sort function to the code from Merge array problem.
 
 ## Bioinformatics Textbook Track
 
