@@ -25,7 +25,7 @@ This track has classic algorithm problems.
 - [Insertion Sort](http://rosalind.info/problems/ins/) Modified the insertion sort function to return the count of number of swaps, instead of a sorted array.
 - [Merge Arrays](http://rosalind.info/problems/mer/) Just scan through both the arrays and add the element that is small er to the final array. The merge function from this problem can be used to solve the merge sort question.
 - [Merge Sort](http://rosalind.info/problems/ms/) Added the merge_sort function to the code from Merge array problem.
-
+- [Double Degree array](http://rosalind.info/problems/ddeg/) Simply make a dictionary containing nodes as keys, and add the neighbors to it's value (a list). 
 ## Bioinformatics Textbook Track
 
 
