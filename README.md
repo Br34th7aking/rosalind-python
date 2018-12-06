@@ -35,3 +35,4 @@ This track has classic algorithm problems.
 ## Bioinformatics Stronghold
 - [Counting Nucleotides](http://rosalind.info/problems/dna/) Used a dictionary with each nucleotide as a key
 - [Transcribing DNA to RNA](http://rosalind.info/problems/rna/) Simple character replacement of 'T' by 'U'
+- [Complementing a strand of DNA](http://rosalind.info/problems/revc/) String manipulation with dictionary. 
