@@ -36,4 +36,5 @@ This track has classic algorithm problems.
 - [Counting Nucleotides](http://rosalind.info/problems/dna/) Used a dictionary with each nucleotide as a key
 - [Transcribing DNA to RNA](http://rosalind.info/problems/rna/) Simple character replacement of 'T' by 'U'
 - [Complementing a strand of DNA](http://rosalind.info/problems/revc/) String manipulation with dictionary.
-- [Mendel's first law](http://rosalind.info/problems/iprb/) First find the formula for the probability using the various combinations of the alleles. Then just substitute the values. 
+- [Mendel's first law](http://rosalind.info/problems/iprb/) First find the formula for the probability using the various combinations of the alleles. Then just substitute the values.
+- [Translating RNA into protein](http://rosalind.info/problems/prot/) Used a dictionary of rna codons to translate rna into protein. 
