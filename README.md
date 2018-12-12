@@ -37,4 +37,7 @@ This track has classic algorithm problems.
 - [Transcribing DNA to RNA](http://rosalind.info/problems/rna/) Simple character replacement of 'T' by 'U'
 - [Complementing a strand of DNA](http://rosalind.info/problems/revc/) String manipulation with dictionary.
 - [Mendel's first law](http://rosalind.info/problems/iprb/) First find the formula for the probability using the various combinations of the alleles. Then just substitute the values.
-- [Translating RNA into protein](http://rosalind.info/problems/prot/) Used a dictionary of rna codons to translate rna into protein. 
+- [Translating RNA into protein](http://rosalind.info/problems/prot/) Used a dictionary of rna codons to translate rna into protein.
+- [Finding a motif in DNA](http://rosalind.info/problems/subs/) Simple O(mn) algorithm that matches the string at each index of the original dna string.
+- [Calculating Expected Offspring](http://rosalind.info/problems/iev/) First built a formula based on information provided in the problem.  
+ 
