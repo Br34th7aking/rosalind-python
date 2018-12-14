@@ -39,5 +39,7 @@ This track has classic algorithm problems.
 - [Mendel's first law](http://rosalind.info/problems/iprb/) First find the formula for the probability using the various combinations of the alleles. Then just substitute the values.
 - [Translating RNA into protein](http://rosalind.info/problems/prot/) Used a dictionary of rna codons to translate rna into protein.
 - [Finding a motif in DNA](http://rosalind.info/problems/subs/) Simple O(mn) algorithm that matches the string at each index of the original dna string.
-- [Calculating Expected Offspring](http://rosalind.info/problems/iev/) First built a formula based on information provided in the problem.  
+- [Calculating Expected Offspring](http://rosalind.info/problems/iev/) First built a formula based on information provided in the problem.
+- [Finding Point Mutations](http://rosalind.info/problems/hamm/) Simple hamming distance O(n) algorithm
+  
  
