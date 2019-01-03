@@ -41,5 +41,6 @@ This track has classic algorithm problems.
 - [Finding a motif in DNA](http://rosalind.info/problems/subs/) Simple O(mn) algorithm that matches the string at each index of the original dna string.
 - [Calculating Expected Offspring](http://rosalind.info/problems/iev/) First built a formula based on information provided in the problem.
 - [Finding Point Mutations](http://rosalind.info/problems/hamm/) Simple hamming distance O(n) algorithm
+- [Rabbits and Recurrence Relations](http://rosalind.info/problems/fib/) - Findng the right formula and then just using a for loop is required. 
   
  
